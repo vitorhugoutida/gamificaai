@@ -24,10 +24,10 @@
 
 }
 
-:root {
-    --roxo-gamifica: #47208b;
-    --laranja-gamifica: #f06638;
-}
+    :root {
+        --roxo-gamifica: #47208b;
+        --laranja-gamifica: #f06638;
+    }
 
 /* Reset de CSS - Limpa configurações padrão que atrapalham */
 * {
@@ -503,6 +503,16 @@ footer .container-grid {
 
 .icones-redes a:hover {
     color: var(--laranja-gamifica);
+}
+
+.menu-fechado {
+    display: none;
+
+}
+
+#icone-barras {
+    display: none;
+    
 }
 
 @media screen and (max-width: 1300px) {
