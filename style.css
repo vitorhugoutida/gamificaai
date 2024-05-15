@@ -736,7 +736,7 @@ footer .container-grid {
     nav.menu {
         width: 100%;
 
-        display: none;
+        /* display: none; */
     }
 
     #sobre {
